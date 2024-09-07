@@ -1,4 +1,4 @@
-cd bc2024-X
+cd bc2024-1
 touch app.js
 nano app.js
 const username = 'lianaksndz';  
